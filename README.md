@@ -2,7 +2,7 @@
 
 ## `No frameworks, no compilers, no fuss;`
 
-### **[Day 06: Ajax type ahead](https://github.com/2y2son4/js-30-days-challenge/tree/main/06-ajax-type-ahead)**.
+### **[Day 06: Ajax type ahead](https://2y2son4.github.io/ajax-exercise-day06/)**.
 
 #### **JS**
 
